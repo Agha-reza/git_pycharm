@@ -120,4 +120,7 @@ def sign_in():
         else:
             print("your password or user is not correct")
 
+k = Karmand() # لزوم ساخت یک شی کلاس پنل کارمند بصورت مستقل
+dic = {} # اطلاعات پنل1
+#Unauthorized
 
